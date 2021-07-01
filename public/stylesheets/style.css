@@ -53,3 +53,10 @@ footer a {
   padding: 20px;
 }
 
+.about {
+  background-color: rgb(192, 196, 245);
+  color: black;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
