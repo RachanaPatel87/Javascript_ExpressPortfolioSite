@@ -32,3 +32,10 @@ li a:hover:not(.nav-item) {
   background-color: rgb(55, 0, 128);
 }
 
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(55, 0, 128);
+  color: white;
+}
+
