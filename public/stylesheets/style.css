@@ -45,3 +45,10 @@ footer a {
   padding: 14px 16px;
 }
 
+.projects {
+  background-color: rgb(182, 167, 247);
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
