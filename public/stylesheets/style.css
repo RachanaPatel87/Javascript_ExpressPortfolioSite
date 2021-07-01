@@ -25,10 +25,10 @@ li a {
 }
 
 li a:hover:not(.nav-item) {
-  background-color: #111;
+  background-color:white;
 }
 
 .nav-item {
-  background-color: #04AA6D;
+  background-color: rgb(55, 0, 128);
 }
 
