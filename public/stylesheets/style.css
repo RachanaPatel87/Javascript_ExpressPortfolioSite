@@ -33,6 +33,7 @@ li a:hover:not(.nav-item) {
 }
 
 footer {
+  position: fixed;
   text-align: center;
   padding: 3px;
   background-color: rgb(55, 0, 128);
